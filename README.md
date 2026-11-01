@@ -77,7 +77,7 @@ ReLU, the last one sigmoid; kernel tap k looks (kernel − 1 − k) × dilation 
 is the 64 bands minus a running mean of their average (exponential, the file's time constant), so overall loudness
 doesn't matter. Version 1 is the same without the flags field.
 
-## Licence
+## License
 
 [MIT](LICENSE): the weights and code. If you use Kickstep, a credit is appreciated; the EDM-HSE loops it learned from
 are CC BY 4.0 by WaivOps.
